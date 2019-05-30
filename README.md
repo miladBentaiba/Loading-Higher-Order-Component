@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/miladBentaiba/movie-app.svg?branch=master)](https://travis-ci.org/miladBentaiba/movie-app)
 
-For live demo, please see: https://shrouded-crag-48716.herokuapp.com/
+For live demo, please see: [https://miladbentaiba.github.io/Loading-Higher-Order-Component/](https://miladbentaiba.github.io/Loading-Higher-Order-Component/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
