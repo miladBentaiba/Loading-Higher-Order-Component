@@ -57,6 +57,7 @@ export default class Inputs extends React.Component {
             </FormGroup>
           </Form>
         </Collapse>
+        <br/><br/>
       </div>);
   }
 }
